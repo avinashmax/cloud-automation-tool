@@ -85,9 +85,10 @@ cloud-automation-tool/
 4. Stop Instance
 5. Terminate Instance
 6. List S3 Buckets
-7. Upload File to S3
-8. Download File from S3
-9. Exit
+7. create S3 Buckets
+8. Upload File to S3
+9. Download File from S3
+10. Exit
 ==============================================
 Enter your choice: 1
 Using latest Free Tier AMI: ami-0a1b2c3d4e5f67890
